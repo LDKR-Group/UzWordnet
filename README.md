@@ -46,7 +46,7 @@ Publications should cite the official website of UzWordnet, that is: [https://uz
 
 ## Contributors
 
-- Alessandro Agostini (Project Leader - _contact_ (here)=(a.agostini@inha.uz))
+- Alessandro Agostini (Project Leader - _contact_ [here](mailto:a.agostini@inha.uz)
 - Timur Usmanov
 - Ulugbek Khamdamov
 - Nilufar Abdurakhmonova
