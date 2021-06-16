@@ -17,7 +17,7 @@ See also [Reference](#reference).
 
 UzWordnet is released through the [Uzbek Wordnet's website](https://uzwordnet.ldkr.org/). The version released are:
 
-- Version 1.0 — Released TODO 17th April 2020 in the following formats:
+- Version 1.0 — Released 17th June 2021 in the following formats:
 
   - [RDF](files/uzwordnet.rdf) (size 56.0 MB)
   - [JSON](files/uzwordnet.json) (size 21.6 MB)
