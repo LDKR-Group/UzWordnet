@@ -49,7 +49,7 @@ Publications should cite the official website of UzWordnet, that is: [https://uz
 - Alessandro Agostini (Project Leader - _email_ [_here_](mailto:a.agostini@inha.uz?subject=[GitHub]%20UzWordnet))
 - Timur Usmanov (Research and Develepment)
 - Ulugbek Khamdamov (Research and Validation)
-- Nilufar Abdurakhmonova (Validation)
+- Nilufar Abdurakhmonova (Research and Validation)
 - Mukhammadsaid Mamasaidov (Research and Validation)
 - Enver Menadjiev (Development and Website)
 
