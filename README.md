@@ -55,4 +55,4 @@ Publications should cite the official website of UzWordnet, that is: [https://uz
 
 ## Reference
 
-A. Agostini, T. Usmanov, U. Khamdamov, N. Abdurakhmonova, M. Mamasaidov, “UZWORDNET: A Lexical- Semantic Database for the Uzbek Language. In S. Bosch, C. Fellbaum, M. Griesel, A. Rademaker and P. Vossen, editors, _Proceedings of the Eleventh International Global Wordnet Conference (GWC-2021)_, pp. 8–19, Potchefstroom, South Africa, 2021. Available online [here](https://uzwordnet.ldkr.org/storage/references/Agostini2021GWC.pdf).
+A. Agostini, T. Usmanov, U. Khamdamov, N. Abdurakhmonova, M. Mamasaidov, “UZWORDNET: A Lexical- Semantic Database for the Uzbek Language. In S. Bosch, C. Fellbaum, M. Griesel, A. Rademaker and P. Vossen, editors, _Proceedings of the Eleventh International Global Wordnet Conference (GWC-2021)_, pp. 8–19, Potchefstroom, South Africa, 2021. Available online [here](https://uzwordnet.ldkr.org/storage/references/Agostini2021GWC.pdf). Video-talk [here](https://uzwordnet.ldkr.org/storage/references/Agostini2021GWCvideo.mp4).
