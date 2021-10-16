@@ -22,6 +22,10 @@ UzWordnet is released through the [Uzbek Wordnet's website](https://uzwordnet.ld
   - [RDF](https://uzwordnet.ldkr.org/download/2) (size 67.0 MB)
   - [JSON](https://uzwordnet.ldkr.org/download/3) (size 37.6 MB)
 
+- Version 1.0 — Released 16th October 2021 in the following formats:
+
+  - [XML](https://uzwordnet.ldkr.org/download/4) (size 16.4 MB)
+
 ### Note on format and conversions
 
 UzWordnet is developed to comply with Global WordNet Association's (lemon-based) Resource Description Framework (RDF) for which a wordnet can be published and submitted to the Inter-Lingual-Index (ILI).
